@@ -28,4 +28,9 @@ Para clonar y configurar el proyecto, sigue estos pasos:
    git clone https://github.com/SamuelZambrana/vitejs-JavascriptVanilla.git
    cd vitejs-JavascriptVanilla
 
+## Estructura del Proyecto
+
+La estructura del proyecto es la siguiente:
+
+vitejs-JavascriptVanilla ├── public │ └── index.html├── src │ ├── assets │ │ └── logo.png│ ├── main.js│ └── style.css├── .gitignore ├── package.json└──
    
